@@ -24,13 +24,13 @@ I've always had a deep curiosity about how things work—that's what led me to s
 - 📫 Reach out to me at: <a href="EDMG0220@outlook.com">EDMG0220@outlook.com</a>
 
 
-
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/DanMG20">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DanMG20&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DanMG20&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
 
