@@ -13,8 +13,7 @@ Aerospace engineer by day, closet programmer by night.
 I've always had a deep curiosity about how things work—that's what led me to study engineering. But in my free time, I discovered a new passion: programming. I started coding as a hobby, writing simple scripts, and eventually began building my own projects in Python — from small automation tools to data analysis and visualizations.
 
 
-* **I'm genuinely interested in everything related to tech, software development, machine learning, and building practical solutions that connect the physical world with the digital one.
-**
+* **I'm genuinely interested in everything related to machine learning , and videogames development**
 - 🌱 I’m currently learning ...
   - Python 
   - SQL
@@ -24,15 +23,3 @@ I've always had a deep curiosity about how things work—that's what led me to s
 - 🎧 Outside tech, I can lose track of time with the right videogame and an exciting challenge in front of me
 - 📫 Reach out to me at: <a href="EDMG0220@outlook.com">EDMG0220@outlook.com</a>
 
-__Check out my GitHub repository:__
-
-<div>
-  <p>
-    <a href="https://github.com/Bhargavi-hash/HotelFranchiseDBMS.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhargavi-hash&repo=HotelFranchiseDBMS" alt="GitHub Stats" />
-    </a>
-    <a href="https://github.com/Bhargavi-hash/Linux-Shell-Implementation.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhargavi-hash&repo=Linux-Shell-Implementation" alt="GitHub Stats" />
-    </a>
-  </p>
-</div>
