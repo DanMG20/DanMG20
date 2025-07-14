@@ -29,8 +29,6 @@ I've always had a deep curiosity about how things work—that's what led me to s
 <p align="center">
 <a href="https://github.com/DanMG20">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DanMG20&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanMG20&layout=compact&theme=algolia" />
-
 </a>
 </p>
 
