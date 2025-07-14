@@ -5,13 +5,34 @@
 
 <img src="https://github.com/sourabmaity/sourabmaity/blob/main/header_.png" >
 
-I'm 25-year-old Engineer on an intention to enhance as a Computer Vision engineer. I love building ML, AI and mobile apps.
-<img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-- 🔭 I’m currently working on YOLO v5
-- 🌱 I’m currently learning custom object detection
-- 👯 I’m looking to collaborate on Computer Vision
-- 🤔 I’m looking for a good project
-- 💬 Ask me about Computer Vision
-- 📫 How to reach me: [EDMG0220@outlook.com](mailto:EDMG0220@outlook.com)
-- 😄 Pronouns: He
-- ⚡ Fun fact: Big fan of 🌈
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+
+
+Aerospace engineer by day, closet programmer by night.
+
+I've always had a deep curiosity about how things work—that's what led me to study engineering. But in my free time, I discovered a new passion: programming. I started coding as a hobby, writing simple scripts, and eventually began building my own projects in Python — from small automation tools to data analysis and visualizations.
+
+
+* **I'm genuinely interested in everything related to tech, software development, machine learning, and building practical solutions that connect the physical world with the digital one.
+**
+- 🌱 I’m currently learning ...
+  - Python 
+  - SQL
+  - C#
+- ✈️ Aerospace Engineer with a growing interest in automation and smart systems  
+- 🧠 Passionate about machine learning and data science  
+- 🎧 Outside tech, I can lose track of time with the right videogame and an exciting challenge in front of me
+- 📫 Reach out to me at: <a href="EDMG0220@outlook.com">EDMG0220@outlook.com</a>
+
+__Check out my GitHub repository:__
+
+<div>
+  <p>
+    <a href="https://github.com/Bhargavi-hash/HotelFranchiseDBMS.git">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhargavi-hash&repo=HotelFranchiseDBMS" alt="GitHub Stats" />
+    </a>
+    <a href="https://github.com/Bhargavi-hash/Linux-Shell-Implementation.git">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhargavi-hash&repo=Linux-Shell-Implementation" alt="GitHub Stats" />
+    </a>
+  </p>
+</div>
