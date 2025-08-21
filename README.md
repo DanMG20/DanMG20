@@ -18,8 +18,8 @@ I've always had a deep curiosity about how things work—that's what led me to s
   - Python 
   - SQL
   - C#
-- ✈️ Aerospace Engineer with a growing interest in automation and smart systems  
-- 🧠 Passionate about machine learning and data science  
+- ✈️ Aerospace Engineer with a growing interest in automation and smart systems 
+- 🧠 Passionate about machine learning, data science, and app development
 - 🎧 Outside tech, I can lose track of time with the right videogame and an exciting challenge in front of me
 - 📫 Reach out to me at: <a href="EDMG0220@outlook.com">EDMG0220@outlook.com</a>
 
