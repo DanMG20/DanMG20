@@ -15,9 +15,9 @@ I've always had a deep curiosity about how things work—that's what led me to s
 
 * **I'm genuinely interested in everything related automatization and Data Analysis**
 - 🌱 I’m currently learning ...
-  - Python 
   - SQL
-  - C#
+  - Data Structures
+  - Algorithms
 - ✈️ Aerospace Engineer with a growing interest in automation and smart systems 
 - 🧠 Passionate about machine learning, data science, and app development
 - 🎧 Outside tech, I can lose track of time with the right videogame and an exciting challenge in front of me
