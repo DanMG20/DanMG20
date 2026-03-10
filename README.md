@@ -22,9 +22,10 @@ I've always had a deep curiosity about how things work—that's what led me to s
 - 📫 Reach out to me at: <a href="mailto:EDMG0220@outlook.com">EDMG0220@outlook.com</a>
 
 ### 🚀 Featured Projects
-* **Manufacturing Optimization:** Led a data-driven project that reduced manufacturing scrap by 8% in a tire bladder vulcanization process.
-* **Custom RPA:** Developed a PDF to Excel automation script using Python, focusing on maintainability and clean code principles.
-* **Hardware & Software Integration:** Built a CNC Mini Milling Machine from scratch using Arduino and GRBL firmware.
+
+* 📊 **[Analytic Dashboard](https://github.com/DanMG20/Analytic_Dashboard):** A data visualization project focused on processing and presenting key metrics effectively.
+* 🛠️ **[Habit Tracker](https://github.com/DanMG20/Habit_Tracker):** A desktop application developed to monitor and build daily habits, showcasing GUI development and user interaction.
+* 🧩 **[Sudoku App](https://github.com/DanMG20/Sudoku):** A fully functional Sudoku game built with Python and Pygame, demonstrating strong logic, algorithm implementation, and clean code principles.
 
 ### ⚙️ &nbsp;GitHub Analytics
 
